@@ -1,0 +1,32 @@
+@import url("https://fonts.googleapis.com/css2?family=Pacifico&display=swap");
+
+.color-red {
+  color: #b65560;
+}
+
+.font-logo {
+  font-family: "Pacifico", cursive;
+}
+
+.features-card {
+  border-radius: 40px;
+  /* border: none; */
+}
+
+.features-card img {
+  /* border-radius: 40px 40px 0 0; */
+  /* display: none; */
+}
+
+.features-card .card-body{
+  padding: 30px;
+}
+
+.features-card .btn-sm {
+  padding: 0.25rem 0.5rem;
+  font-size: .875rem;
+  line-height: 1.5;
+  text-transform: none;
+  font-weight: 400;
+  letter-spacing: normal;
+}
