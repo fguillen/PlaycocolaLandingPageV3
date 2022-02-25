@@ -10,12 +10,13 @@
 
 .features-card {
   border-radius: 40px;
-  /* border: none; */
+  border: none;
 }
 
 .features-card img {
   /* border-radius: 40px 40px 0 0; */
   /* display: none; */
+  box-shadow: 0 15px 30px 0 rgb(0 0 0 / 45%);
 }
 
 .features-card .card-body{
@@ -29,4 +30,8 @@
   text-transform: none;
   font-weight: 400;
   letter-spacing: normal;
+}
+
+.features-card .feature-description {
+  padding: 8em;
 }
