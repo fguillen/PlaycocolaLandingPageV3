@@ -79,3 +79,8 @@
 .img-bw {
   filter: grayscale(100%);
 }
+
+
+.read-more:before {
+  z-index: 0;
+}
