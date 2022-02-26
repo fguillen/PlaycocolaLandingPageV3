@@ -49,3 +49,7 @@
   width: 100%;
   opacity: 70%;
 }
+
+.price small {
+  font-size: 40%;
+}
