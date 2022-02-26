@@ -56,7 +56,6 @@
 
 .vcard .vcard-image img {
   border-radius: 50%;
-  filter: grayscale(100%);
 }
 
 .vcard .vcard-description {
@@ -71,4 +70,8 @@
 
 .vcard .vcard-description a {
   color: #c6c6c6;
+}
+
+.img-bw {
+  filter: grayscale(100%);
 }
