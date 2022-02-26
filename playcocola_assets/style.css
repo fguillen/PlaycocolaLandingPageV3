@@ -53,3 +53,17 @@
 .price small {
   font-size: 40%;
 }
+
+.vcard .vcard-image img {
+  border-radius: 50%;
+}
+
+.vcard .vcard-description h4 {
+  font-size: 16px;
+  font-weight: 700;
+  margin: 0;
+}
+
+.vcard .vcard-description a {
+  color: #c6c6c6;
+}
