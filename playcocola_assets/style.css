@@ -56,6 +56,11 @@
 
 .vcard .vcard-image img {
   border-radius: 50%;
+  filter: grayscale(100%);
+}
+
+.vcard .vcard-description {
+  padding-top: 5px
 }
 
 .vcard .vcard-description h4 {
