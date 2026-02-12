@@ -1,0 +1,29 @@
+# Playcocola robots.txt
+User-agent: *
+Allow: /
+
+# LLMs.txt for AI crawlers
+# https://llmstxt.org/
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: Claude-Web
+Allow: /
+
+User-agent: Anthropic-AI
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Amazonbot
+Allow: /
+
+# AI-readable content
+LLMs-Txt: https://playcocola.com/llms.txt

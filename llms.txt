@@ -1,0 +1,81 @@
+# Playcocola
+
+> The community-powered playtesting platform for indie game developers.
+
+## Overview
+
+Playcocola is a browser-based playtesting tool that helps indie game developers get human feedback on their games quickly and affordably. No SDKs, no heavy installs, no registration required for playtesters.
+
+**Website:** https://playcocola.com
+**App:** https://app.playcocola.com
+**Twitter:** @playcocola
+
+## Core Value Proposition
+
+- Get playtesting feedback in minutes, not weeks
+- Starting price: €2 per 20-minute session
+- Zero integration required — works with any game
+- Access to a passionate community of indie game enthusiasts
+
+## How It Works
+
+1. **Set up a Play Session** — Add your game and describe expectations for playtesters
+2. **Share with the community** — Use your own testers or tap into Playcocola's playtester pool
+3. **Watch the recordings** — Get synced videos of gameplay with voice commentary and timed comments
+
+## Features
+
+### For Developers
+- Browser-based platform (no installation)
+- Video recordings with "thinking aloud" audio
+- Timed comments synced to video timestamps
+- All feedback organized in one dashboard
+- Side-by-side video and feedback viewing
+- Upload game builds directly to the platform
+- Customizable required checkboxes (NDAs, terms)
+- Custom finished session messages
+- Playtester reward descriptions
+- Public or private play sessions
+
+### For Playtesters
+- No registration required to record
+- Privacy controls (record full screen, single app, or browser tab)
+- Optional playtester accounts for community features
+- Easy commenting during gameplay
+
+## Pricing
+
+| Plan | Price | Features |
+|------|-------|----------|
+| Hobbyist | Free | 2 hours video limit, bring your own playtesters, 1-week video storage |
+| Indie | €2/20 min | Unlimited recording, playtesters community access, 1-month video storage |
+| Premium | €7/20 min | Playtester recruiting included, money-back guarantee |
+
+## Target Users
+
+- Indie game developers
+- Solo developers
+- Small game studios
+- Game jam participants
+- Anyone needing quick, affordable playtesting
+
+## Key Differentiators
+
+- **No subscription traps** — Pay-as-you-go pricing
+- **No technical integration** — Works with any game platform
+- **Community-powered** — Real gamers who care, not paid click-farmers
+- **Radical accessibility** — Professional testing from €2
+
+## Contact
+
+- Website: https://playcocola.com
+- App: https://app.playcocola.com
+- Twitter: @playcocola
+
+## Related Pages
+
+- Homepage: https://playcocola.com
+- Features: https://playcocola.com/features.html
+- Playtesters Community: https://playcocola.com/playtesters.html
+- Privacy Policy: https://playcocola.com/privacy_policy.html
+- Terms of Use: https://playcocola.com/terms_use.html
