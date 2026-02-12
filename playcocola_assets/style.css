@@ -107,6 +107,10 @@
   filter: grayscale(100%);
 }
 
+.untree_co-testimonial:hover .img-bw {
+  filter: grayscale(0%);
+}
+
 
 .read-more:before {
   z-index: 0;
