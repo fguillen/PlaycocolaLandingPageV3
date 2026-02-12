@@ -1035,11 +1035,11 @@ h1, .h1, h2, .h2, h3, .h3, h4, .h4 {
 
 .count-numbers .counter {
   color: #000000;
-  font-size: 40px; }
+  font-size: 100px; }
 
 .count-numbers .caption-2 {
   text-transform: uppercase;
-  font-size: 11px;
+  font-size: 20px;
   font-weight: 700;
   letter-spacing: .1rem; }
 
