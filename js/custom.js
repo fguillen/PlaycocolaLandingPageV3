@@ -383,6 +383,16 @@ $(function(){
 			links.removeClass('unfocus');
 		})
 
-
+	// Explicit FancyBox initialization for video links
+	$('[data-fancybox]').fancybox({
+		buttons: ['close'],
+		youtube: {
+			controls: 1,
+			showinfo: 0
+		},
+		vimeo: {
+			color: 'f00'
+		}
+	});
 
 })
