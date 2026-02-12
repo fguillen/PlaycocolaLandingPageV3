@@ -25,5 +25,5 @@ Allow: /
 User-agent: Amazonbot
 Allow: /
 
-# AI-readable content
-LLMs-Txt: https://playcocola.com/llms.txt
+# AI-readable content available at:
+# https://playcocola.com/llms.txt
