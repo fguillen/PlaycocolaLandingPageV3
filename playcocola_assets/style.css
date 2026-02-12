@@ -120,3 +120,9 @@
 .service-icon i {
   padding: 10px 10px;
 }
+
+@media (max-width: 991.98px) {
+  .untree_co-hero ul {
+    text-align: left;
+  }
+}
