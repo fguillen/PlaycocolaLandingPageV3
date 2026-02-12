@@ -692,7 +692,7 @@ h1, .h1, h2, .h2, h3, .h3, h4, .h4 {
         background: #000000;
         left: 0;
         content: ""; }
-  .untree_co-section .caption {
+  .caption {
     color: #407BFF;
     font-size: 13px;
     text-transform: uppercase;
