@@ -7,3 +7,9 @@
     }
   });
 })();
+
+function trackEvent(eventName, eventData = {}) {
+  if (window.umami) {
+    window.umami.track(eventName, eventData);
+  }
+}
