@@ -47,7 +47,7 @@ Playcocola is a browser-based playtesting tool that helps indie game developers 
 
 | Plan | Price | Features |
 |------|-------|----------|
-| Hobbyist | Free | 2 hours video limit, bring your own playtesters, 1-week video storage |
+| Hobbyist | Free | 1 hour video limit, bring your own playtesters, 1-week video storage |
 | Indie | €2/20 min | Unlimited recording, playtesters community access, 1-month video storage |
 | Premium | €7/20 min | Playtester recruiting included, money-back guarantee |
 
