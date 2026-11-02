@@ -13,29 +13,29 @@ Playcocola is a browser-based playtesting tool that helps indie game developers 
 ## Core Value Proposition
 
 - Get playtesting feedback in minutes, not weeks
-- Starting price: €2 per 20-minute session
+- Starting price: €2 per 20-minute Play Session
 - Zero integration required — works with any game
 - Access to a passionate community of indie game enthusiasts
 
 ## How It Works
 
-1. **Set up a Play Session** — Add your game and describe expectations for playtesters
+1. **Set up a Playtest Round** — Add your game and describe expectations for playtesters
 2. **Share with the community** — Use your own testers or tap into Playcocola's playtester pool
-3. **Watch the recordings** — Get synced videos of gameplay with voice commentary and timed comments
+3. **Watch the Play Sessions** — Get synced videos of gameplay with voice commentary and timed comments
 
 ## Features
 
 ### For Developers
 - Browser-based platform (no installation)
-- Video recordings with "thinking aloud" audio
+- Play Sessions recorded with "thinking aloud" audio
 - Timed comments synced to video timestamps
 - All feedback organized in one dashboard
 - Side-by-side video and feedback viewing
 - Upload game builds directly to the platform
 - Customizable required checkboxes (NDAs, terms)
-- Custom finished session messages
+- Custom messages when a Play Session finishes
 - Playtester reward descriptions
-- Public or private play sessions
+- Public or private Playtest Rounds
 
 ### For Playtesters
 - No registration required to record
